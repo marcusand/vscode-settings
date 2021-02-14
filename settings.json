@@ -54,5 +54,6 @@
   },
   "[php]": {
     "editor.defaultFormatter": "bmewburn.vscode-intelephense-client"
-  }
+  },
+  "vscode-neovim.neovimExecutablePaths.darwin": "/usr/local/bin/nvim"
 }
