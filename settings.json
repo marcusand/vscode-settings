@@ -39,7 +39,7 @@
   "plantuml.exportOutDir": "figures/uml/out",
   "plantuml.exportFormat": "latex",
   "plantuml.exportSubFolder": false,
-  "workbench.iconTheme": "eq-material-theme-icons-light",
+  "workbench.iconTheme": "material-icon-theme",
   "editor.renderWhitespace": "all",
   "eslint.alwaysShowStatus": true,
   "editor.formatOnSave": true,
